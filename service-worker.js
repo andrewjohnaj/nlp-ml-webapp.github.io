@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/andrewjohnaj/nlp-ml-webapp.github.io/precache-manifest.a188fcdd38726c20106f1038e17af24b.js"
+  "/andrewjohnaj/nlp-ml-webapp.github.io/precache-manifest.753ce3b97bb8db7c6d5547420b92e7a7.js"
 );
 
 workbox.clientsClaim();
